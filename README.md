@@ -1,4 +1,4 @@
-# 🤖 RoboNexus
+# RoboNexus
 
 Welcome to **RoboNexus** — the official robotics and technology club of our school, founded in 2024.
 
