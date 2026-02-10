@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🤖 RoboNexus
 
-<!--
-**robonexusaisg46/robonexusaisg46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to **RoboNexus** — the official robotics and technology club of our school, founded in 2024.
 
-Here are some ideas to get you started:
+- 🤝 Bringing together students passionate about robotics, engineering, and creative tech  
+- 🤖 Designing and programming robots for competitions, showcases, and hands-on learning  
+- 🚀 Focus: Robotics, AI, IoT, and innovation-driven projects  
+- 🛠️ Regular workshops, team projects, and a supportive learning community
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Our mission:** Inspiring the next generation of innovators through teamwork, curiosity, and hands-on experience.
+
+**Contact:** robonexus.ais46@gmail.com  
+**Learn more:** [robo-nexus.netlify.app](https://robo-nexus.netlify.app)
+
+*Building the future, one robot at a time.*
